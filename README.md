@@ -7,4 +7,4 @@
 ![test1 - Copy](https://user-images.githubusercontent.com/116218046/230878457-69cec4a8-4a71-4a71-95e8-33aaf7b07a96.jpeg)
 ![alg1](https://user-images.githubusercontent.com/116218046/230877474-a1a1b2d9-ecef-44cb-9482-4d89cac3dba7.jpg)
 ![alg2](https://user-images.githubusercontent.com/116218046/230884143-a3a350cf-e036-440e-be81-71655e3f6377.jpeg)
-![alg3_edited](https://user-images.githubusercontent.com/116218046/230885749-1d80d1e9-eb6c-4c73-9774-25f5b2ad65e7.jpg)
+![alg3_edited](https://user-images.githubusercontent.com/116218046/230886142-84ced36e-9f5f-4437-9501-08aa577dbad3.jpg)
