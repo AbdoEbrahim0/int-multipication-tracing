@@ -13,3 +13,5 @@
 ![testtraceCase1](https://user-images.githubusercontent.com/116218046/231024146-161a81a0-73a1-4f8e-8891-c74c454292f1.png)
 
 ![testtraceCase3](https://user-images.githubusercontent.com/116218046/231024346-f7b2d57c-5abc-441a-8d04-cdc662abe9c4.png)
+# Note you got reversed array in test cases like example
+![reversed array from doctor](https://user-images.githubusercontent.com/116218046/231578133-d8fb8141-24c8-4a8b-acda-a8e0a24fa019.png)
